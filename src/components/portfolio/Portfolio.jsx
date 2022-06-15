@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
 import "./portfolio.css";
-import img from "../../images/cyf.png";
-import img2 from "../../images/tv.png";
-import img3 from "../../images/port.png";
+import img from '../../images/cyf.png';
+import img2 from '../../images/tv.png';
+import img3 from '../../images/port.png';
 import Aos from "aos";
 import "aos/dist/aos.css";
 
@@ -75,7 +75,7 @@ const Portfolio = () => {
           <h3>Portfolio</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/myaskylar/Portfolio"
+              href="https://github.com/myaskylar/mya-portfolio"
               target="_blank"
               rel="noreferrer"
               className="btn"
@@ -83,7 +83,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://github.com/myaskylar/"
+              href="https://myaskylarportfolio.netlify.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"

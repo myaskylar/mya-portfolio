@@ -45,14 +45,24 @@ const Contact = () => {
             <AiOutlineMail className="contact__option-icon" />
             <h4>Email</h4>
             <h5>mya_skylar@outlook.com</h5>
-            <a href="mailto:mya_skylar@outlook.com">Send Massage</a>
+            <a
+              href="mailto:mya_skylar@outlook.com"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Send Massage
+            </a>
           </article>
 
           <article className="contact__option">
             <MdConnectWithoutContact className="contact__option-icon" />
             <h4>LinkedIn</h4>
             <h5>Mya Skylar</h5>
-            <a href="https://www.linkedin.com/in/mya-skylar-290838221/">
+            <a
+              href="https://www.linkedin.com/in/mya-skylar-290838221/"
+              target="_blank"
+              rel="noreferrer"
+            >
               Network
             </a>
           </article>
@@ -61,7 +71,11 @@ const Contact = () => {
             <ImWhatsapp className="contact__option-icon" />
             <h4>Whatapps</h4>
             <h5>sample</h5>
-            <a href="https://api.whatsapp.com/send?phone=447448251272">
+            <a
+              href="https://api.whatsapp.com/send?phone=447448251272"
+              target="_blank"
+              rel="noreferrer"
+            >
               Send Massage
             </a>
           </article>
