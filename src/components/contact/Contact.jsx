@@ -85,7 +85,7 @@ const Contact = () => {
           <textarea
             name="massage"
             rows="7"
-            placeholder="Your massage"
+            placeholder="Your message"
             required
           ></textarea>
           <button type="submit" className="btn btn-primary">
