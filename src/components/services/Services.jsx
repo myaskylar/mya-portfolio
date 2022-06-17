@@ -32,9 +32,9 @@ const Services = () => {
               <p>
                 {" "}
                 <BsCheck className="service__list-icon" />
-                Adaptability Communication, collaboration and teamwork.
+                Adaptability, communication, collaboration and teamwork.
                 Problem-solving and Design thinking. A user-centric mindset,
-                Attention to detail, Creative and analytical approach
+                Attention to detail, Creative and analytical approach.
               </p>
             </li>
             <li>
@@ -73,21 +73,21 @@ const Services = () => {
               <p>
                 {" "}
                 <BsCheck className="service__list-icon" />
-                Researching different software programs, maintaining software
+                Researching different software programs, maintaining software.
               </p>
             </li>
             <li>
               <p>
                 {" "}
                 <BsCheck className="service__list-icon" />
-                Implementing contingency plans in case the website goes down
+                Implementing contingency plans in case the website goes down.
               </p>
             </li>
             <li>
               <p>
                 {" "}
                 <BsCheck className="service__list-icon" />
-                Maintaining and expanding, enhancing the website once built
+                Maintaining, expanding and enhancing the website once built.
               </p>
             </li>
           </ul>
@@ -103,14 +103,14 @@ const Services = () => {
               <p>
                 <BsCheck className="service__list-icon" />
                 Working closely with web designers and programmers to produce
-                the website
+                the website.
               </p>
             </li>
             <li>
               <p>
                 <BsCheck className="service__list-icon" />
                 Constant communication with other colleagues in the business to
-                develop and deploy their content - and ensuring there is a clear
+                develop and deploy their content, and ensuring there is a clear
                 establishment of what can be created within what timeframe.
               </p>
             </li>

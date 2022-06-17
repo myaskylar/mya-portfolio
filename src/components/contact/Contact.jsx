@@ -50,7 +50,7 @@ const Contact = () => {
               target="_blank"
               rel="noreferrer"
             >
-              Send Massage
+              Send Message
             </a>
           </article>
 
@@ -69,14 +69,13 @@ const Contact = () => {
 
           <article className="contact__option">
             <ImWhatsapp className="contact__option-icon" />
-            <h4>Whatapps</h4>
-            <h5>sample</h5>
+            <h4>Whatsapp</h4>
             <a
               href="https://api.whatsapp.com/send?phone=447448251272"
               target="_blank"
               rel="noreferrer"
             >
-              Send Massage
+              Send Message
             </a>
           </article>
         </div>
